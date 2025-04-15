@@ -1,0 +1,1578 @@
+[
+  {
+    "nom": "",
+    "capitale": "",
+    "population": "",
+    "superficie": "",
+    "pib": "",
+    "esperance_vie": ""
+  },
+  {
+    "nom": "1.",
+    "capitale": "Afghanistan",
+    "population": "Kaboul",
+    "superficie": "647 500",
+    "pib": "31 575 018",
+    "esperance_vie": "1 976"
+  },
+  {
+    "nom": "2.",
+    "capitale": "Afrique du Sud",
+    "population": "Pretoria",
+    "superficie": "1 219 912",
+    "pib": "57 725 600",
+    "esperance_vie": "13 526"
+  },
+  {
+    "nom": "3.",
+    "capitale": "Albanie",
+    "population": "Tirana",
+    "superficie": "28 748",
+    "pib": "2 821 977",
+    "esperance_vie": "12 943"
+  },
+  {
+    "nom": "4.",
+    "capitale": "Algérie",
+    "population": "Alger",
+    "superficie": "2 381 740",
+    "pib": "42 545 964",
+    "esperance_vie": "15 292"
+  },
+  {
+    "nom": "5.",
+    "capitale": "Allemagne",
+    "population": "Berlin",
+    "superficie": "357 021",
+    "pib": "82 793 800",
+    "esperance_vie": "52 555"
+  },
+  {
+    "nom": "6.",
+    "capitale": "Andorre",
+    "population": "Andorre-la-Vieille",
+    "superficie": "468",
+    "pib": "76 246",
+    "esperance_vie": "-- N/A --"
+  },
+  {
+    "nom": "7.",
+    "capitale": "Angola",
+    "population": "Luanda",
+    "superficie": "1 246 700",
+    "pib": "29 250 009",
+    "esperance_vie": "6 657"
+  },
+  {
+    "nom": "8.",
+    "capitale": "Antigua-et-Barbuda",
+    "population": "Saint John's",
+    "superficie": "442",
+    "pib": "86 295",
+    "esperance_vie": "23 522"
+  },
+  {
+    "nom": "9.",
+    "capitale": "Arabie saoudite",
+    "population": "Riyad",
+    "superficie": "2 218 000",
+    "pib": "33 413 660",
+    "esperance_vie": "53 893"
+  },
+  {
+    "nom": "10.",
+    "capitale": "Argentine",
+    "population": "Buenos Aires",
+    "superficie": "2 766 890",
+    "pib": "44 494 502",
+    "esperance_vie": "20 828"
+  },
+  {
+    "nom": "11.",
+    "capitale": "Arménie",
+    "population": "Erevan",
+    "superficie": "29 743",
+    "pib": "3 031 200",
+    "esperance_vie": "9 668"
+  },
+  {
+    "nom": "12.",
+    "capitale": "Australie",
+    "population": "Canberra",
+    "superficie": "7 686 850",
+    "pib": "25 130 600",
+    "esperance_vie": "49 378"
+  },
+  {
+    "nom": "13.",
+    "capitale": "Autriche",
+    "population": "Vienne",
+    "superficie": "83 858",
+    "pib": "8 488 511",
+    "esperance_vie": "53 879"
+  },
+  {
+    "nom": "14.",
+    "capitale": "Azerbaïdjan",
+    "population": "Bakou",
+    "superficie": "86 600",
+    "pib": "9 235 100",
+    "esperance_vie": "17 449"
+  },
+  {
+    "nom": "15.",
+    "capitale": "Bahamas",
+    "population": "Nassau",
+    "superficie": "13 940",
+    "pib": "351 461",
+    "esperance_vie": "30 494"
+  },
+  {
+    "nom": "16.",
+    "capitale": "Bahreïn",
+    "population": "Manama",
+    "superficie": "665",
+    "pib": "1 234 571",
+    "esperance_vie": "47 708"
+  },
+  {
+    "nom": "17.",
+    "capitale": "Bangladesh",
+    "population": "Dacca",
+    "superficie": "144 000",
+    "pib": "165 570 000",
+    "esperance_vie": "3 877"
+  },
+  {
+    "nom": "18.",
+    "capitale": "Barbade",
+    "population": "Bridgetown",
+    "superficie": "431",
+    "pib": "274 200",
+    "esperance_vie": "18 559"
+  },
+  {
+    "nom": "19.",
+    "capitale": "Bélarus",
+    "population": "Minsk",
+    "superficie": "207 600",
+    "pib": "9 461 800",
+    "esperance_vie": "18 895"
+  },
+  {
+    "nom": "20.",
+    "capitale": "Belgique",
+    "population": "Bruxelles",
+    "superficie": "32 545",
+    "pib": "11 428 164",
+    "esperance_vie": "49 366"
+  },
+  {
+    "nom": "21.",
+    "capitale": "Belize",
+    "population": "Belmopan",
+    "superficie": "22 966",
+    "pib": "312 971",
+    "esperance_vie": "8 525"
+  },
+  {
+    "nom": "22.",
+    "capitale": "Bénin",
+    "population": "Porto-Novo",
+    "superficie": "112 620",
+    "pib": "11 362 269",
+    "esperance_vie": "2 276"
+  },
+  {
+    "nom": "23.",
+    "capitale": "Bhoutan",
+    "population": "Thimphou",
+    "superficie": "47 000",
+    "pib": "733 180",
+    "esperance_vie": "9 391"
+  },
+  {
+    "nom": "24.",
+    "capitale": "Bolivie",
+    "population": "Sucre",
+    "superficie": "1 098 580",
+    "pib": "11 307 314",
+    "esperance_vie": "7 575"
+  },
+  {
+    "nom": "25.",
+    "capitale": "Bosnie-Herzégovine",
+    "population": "Sarajevo",
+    "superficie": "51 129",
+    "pib": "3 839 737",
+    "esperance_vie": "13 107"
+  },
+  {
+    "nom": "26.",
+    "capitale": "Botswana",
+    "population": "Gaborone",
+    "superficie": "600 370",
+    "pib": "2 024 904",
+    "esperance_vie": "17 024"
+  },
+  {
+    "nom": "27.",
+    "capitale": "Brésil",
+    "population": "Brasilia",
+    "superficie": "8 511 965",
+    "pib": "209 134 000",
+    "esperance_vie": "15 553"
+  },
+  {
+    "nom": "28.",
+    "capitale": "Brunei",
+    "population": "Bandar Seri Begawan",
+    "superficie": "5 770",
+    "pib": "393 162",
+    "esperance_vie": "79 003"
+  },
+  {
+    "nom": "29.",
+    "capitale": "Bulgarie",
+    "population": "Sofia",
+    "superficie": "110 910",
+    "pib": "7 050 034",
+    "esperance_vie": "20 948"
+  },
+  {
+    "nom": "30.",
+    "capitale": "Burkina Faso",
+    "population": "Ouagadougou",
+    "superficie": "274 200",
+    "pib": "20 244 080",
+    "esperance_vie": "1 866"
+  },
+  {
+    "nom": "31.",
+    "capitale": "Burundi",
+    "population": "Gitega",
+    "superficie": "27 830",
+    "pib": "10 681 186",
+    "esperance_vie": "735"
+  },
+  {
+    "nom": "32.",
+    "capitale": "Cambodge",
+    "population": "Phnom Penh",
+    "superficie": "181 040",
+    "pib": "16 069 921",
+    "esperance_vie": "4 017"
+  },
+  {
+    "nom": "33.",
+    "capitale": "Cameroun",
+    "population": "Yaoundé",
+    "superficie": "475 440",
+    "pib": "23 794 164",
+    "esperance_vie": "3 722"
+  },
+  {
+    "nom": "34.",
+    "capitale": "Canada",
+    "population": "Ottawa",
+    "superficie": "9 976 140",
+    "pib": "37 067 000",
+    "esperance_vie": "46 509"
+  },
+  {
+    "nom": "35.",
+    "capitale": "Cap-Vert",
+    "population": "Praia",
+    "superficie": "4 033",
+    "pib": "491 875",
+    "esperance_vie": "6 912"
+  },
+  {
+    "nom": "36.",
+    "capitale": "Colombie",
+    "population": "Bogota",
+    "superficie": "1 138 910",
+    "pib": "50 047 300",
+    "esperance_vie": "14 503"
+  },
+  {
+    "nom": "37.",
+    "capitale": "Comores",
+    "population": "Moroni",
+    "superficie": "2 170",
+    "pib": "724 300",
+    "esperance_vie": "2 751"
+  },
+  {
+    "nom": "38.",
+    "capitale": "Congo",
+    "population": "Brazzaville",
+    "superficie": "342 000",
+    "pib": "4 324 000",
+    "esperance_vie": "5 454"
+  },
+  {
+    "nom": "39.",
+    "capitale": "Corée du Nord",
+    "population": "Pyongyang",
+    "superficie": "120 540",
+    "pib": "25 610 672",
+    "esperance_vie": "-- N/A --"
+  },
+  {
+    "nom": "40.",
+    "capitale": "Corée du Sud",
+    "population": "Séoul",
+    "superficie": "98 480",
+    "pib": "51 635 256",
+    "esperance_vie": "38 824"
+  },
+  {
+    "nom": "41.",
+    "capitale": "Costa Rica",
+    "population": "San José",
+    "superficie": "51 100",
+    "pib": "4 667 096",
+    "esperance_vie": "17 109"
+  },
+  {
+    "nom": "42.",
+    "capitale": "Côte d'Ivoire",
+    "population": "Yamoussoukro",
+    "superficie": "322 460",
+    "pib": "24 571 044",
+    "esperance_vie": "3 944"
+  },
+  {
+    "nom": "43.",
+    "capitale": "Croatie",
+    "population": "Zagreb",
+    "superficie": "56 542",
+    "pib": "4 290 612",
+    "esperance_vie": "26 295"
+  },
+  {
+    "nom": "44.",
+    "capitale": "Cuba",
+    "population": "La Havane",
+    "superficie": "100 860",
+    "pib": "11 221 060",
+    "esperance_vie": "-- N/A --"
+  },
+  {
+    "nom": "45.",
+    "capitale": "Danemark",
+    "population": "Copenhague",
+    "superficie": "43 094",
+    "pib": "5 602 628",
+    "esperance_vie": "54 356"
+  },
+  {
+    "nom": "46.",
+    "capitale": "Djibouti",
+    "population": "Djibouti",
+    "superficie": "22 000",
+    "pib": "818 159",
+    "esperance_vie": "2 705"
+  },
+  {
+    "nom": "47.",
+    "capitale": "Dominique",
+    "population": "Roseau",
+    "superficie": "754",
+    "pib": "71 293",
+    "esperance_vie": "10 037"
+  },
+  {
+    "nom": "48.",
+    "capitale": "Égypte",
+    "population": "Le Caire",
+    "superficie": "1 001 450",
+    "pib": "97 907 000",
+    "esperance_vie": "11 608"
+  },
+  {
+    "nom": "49.",
+    "capitale": "Émirats arabes unis",
+    "population": "Abou Dabi",
+    "superficie": "82 880",
+    "pib": "8 264 070",
+    "esperance_vie": "74 035"
+  },
+  {
+    "nom": "50.",
+    "capitale": "Équateur",
+    "population": "Quito",
+    "superficie": "283 560",
+    "pib": "17 120 000",
+    "esperance_vie": "11 612"
+  },
+  {
+    "nom": "51.",
+    "capitale": "Érythrée",
+    "population": "Asmara",
+    "superficie": "121 320",
+    "pib": "5 748 000",
+    "esperance_vie": "1 510"
+  },
+  {
+    "nom": "52.",
+    "capitale": "Espagne",
+    "population": "Madrid",
+    "superficie": "504 782",
+    "pib": "46 659 302",
+    "esperance_vie": "39 037"
+  },
+  {
+    "nom": "53.",
+    "capitale": "Estonie",
+    "population": "Tallinn",
+    "superficie": "45 226",
+    "pib": "1 286 540",
+    "esperance_vie": "33 447"
+  },
+  {
+    "nom": "54.",
+    "capitale": "Eswatini",
+    "population": "Mbabane",
+    "superficie": "17 363",
+    "pib": "1 237 000",
+    "esperance_vie": "8 659"
+  },
+  {
+    "nom": "55.",
+    "capitale": "États-Unis",
+    "population": "Washington D.C.",
+    "superficie": "9 639 810",
+    "pib": "329 035 000",
+    "esperance_vie": "59 927"
+  },
+  {
+    "nom": "56.",
+    "capitale": "Éthiopie",
+    "population": "Addis-Abeba",
+    "superficie": "1 127 127",
+    "pib": "107 534 882",
+    "esperance_vie": "1 903"
+  },
+  {
+    "nom": "57.",
+    "capitale": "Fidji",
+    "population": "Suva",
+    "superficie": "18 270",
+    "pib": "858 038",
+    "esperance_vie": "9 574"
+  },
+  {
+    "nom": "58.",
+    "capitale": "Finlande",
+    "population": "Helsinki",
+    "superficie": "337 030",
+    "pib": "5 433 730",
+    "esperance_vie": "46 343"
+  },
+  {
+    "nom": "59.",
+    "capitale": "France",
+    "population": "Paris",
+    "superficie": "675 417",
+    "pib": "67 348 000",
+    "esperance_vie": "44 032"
+  },
+  {
+    "nom": "60.",
+    "capitale": "Gabon",
+    "population": "Libreville",
+    "superficie": "267 667",
+    "pib": "1 594 000",
+    "esperance_vie": "18 113"
+  },
+  {
+    "nom": "61.",
+    "capitale": "Gambie",
+    "population": "Banjul",
+    "superficie": "11 300",
+    "pib": "1 874 000",
+    "esperance_vie": "1 699"
+  },
+  {
+    "nom": "62.",
+    "capitale": "Géorgie",
+    "population": "Tbilissi",
+    "superficie": "69 700",
+    "pib": "4 497 600",
+    "esperance_vie": "10 674"
+  },
+  {
+    "nom": "63.",
+    "capitale": "Ghana",
+    "population": "Accra",
+    "superficie": "239 460",
+    "pib": "29 614 337",
+    "esperance_vie": "4 501"
+  },
+  {
+    "nom": "64.",
+    "capitale": "Grèce",
+    "population": "Athènes",
+    "superficie": "131 940",
+    "pib": "10 768 193",
+    "esperance_vie": "28 582"
+  },
+  {
+    "nom": "65.",
+    "capitale": "Grenade",
+    "population": "Saint-Georges",
+    "superficie": "344",
+    "pib": "103 328",
+    "esperance_vie": "15 155"
+  },
+  {
+    "nom": "66.",
+    "capitale": "Guatemala",
+    "population": "Guatemala",
+    "superficie": "108 890",
+    "pib": "17 302 084",
+    "esperance_vie": "8 167"
+  },
+  {
+    "nom": "67.",
+    "capitale": "Guinée",
+    "population": "Conakry",
+    "superficie": "245 857",
+    "pib": "11 883 516",
+    "esperance_vie": "2 247"
+  },
+  {
+    "nom": "68.",
+    "capitale": "Guinée équatoriale",
+    "population": "Malabo",
+    "superficie": "28 051",
+    "pib": "761 000",
+    "esperance_vie": "24 439"
+  },
+  {
+    "nom": "69.",
+    "capitale": "Guinée-Bissau",
+    "population": "Bissau",
+    "superficie": "36 120",
+    "pib": "1 520 830",
+    "esperance_vie": "1 703"
+  },
+  {
+    "nom": "70.",
+    "capitale": "Guyana",
+    "population": "Georgetown",
+    "superficie": "214 970",
+    "pib": "784 894",
+    "esperance_vie": "8 179"
+  },
+  {
+    "nom": "71.",
+    "capitale": "Haïti",
+    "population": "Port-au-Prince",
+    "superficie": "27 750",
+    "pib": "11 112 945",
+    "esperance_vie": "1 818"
+  },
+  {
+    "nom": "72.",
+    "capitale": "Honduras",
+    "population": "Tegucigalpa",
+    "superficie": "112 090",
+    "pib": "8 385 072",
+    "esperance_vie": "4 996"
+  },
+  {
+    "nom": "73.",
+    "capitale": "Hongrie",
+    "population": "Budapest",
+    "superficie": "93 030",
+    "pib": "9 957 731",
+    "esperance_vie": "28 798"
+  },
+  {
+    "nom": "74.",
+    "capitale": "Chili",
+    "population": "Santiago",
+    "superficie": "756 950",
+    "pib": "17 574 003",
+    "esperance_vie": "24 747"
+  },
+  {
+    "nom": "75.",
+    "capitale": "Chine",
+    "population": "Pékin",
+    "superficie": "9 596 960",
+    "pib": "1 393 302 000",
+    "esperance_vie": "16 842"
+  },
+  {
+    "nom": "76.",
+    "capitale": "Chypre",
+    "population": "Nicosie",
+    "superficie": "9 250",
+    "pib": "862 000",
+    "esperance_vie": "36 012"
+  },
+  {
+    "nom": "77.",
+    "capitale": "Îles Salomon",
+    "population": "Honiara",
+    "superficie": "29 785",
+    "pib": "642 000",
+    "esperance_vie": "2 426"
+  },
+  {
+    "nom": "78.",
+    "capitale": "Inde",
+    "population": "New Delhi",
+    "superficie": "3 287 590",
+    "pib": "1 353 919 000",
+    "esperance_vie": "7 166"
+  },
+  {
+    "nom": "79.",
+    "capitale": "Indonésie",
+    "population": "Jakarta",
+    "superficie": "1 904 556",
+    "pib": "265 015 300",
+    "esperance_vie": "12 309"
+  },
+  {
+    "nom": "80.",
+    "capitale": "Irak",
+    "population": "Bagdad",
+    "superficie": "437 072",
+    "pib": "39 339 753",
+    "esperance_vie": "16 935"
+  },
+  {
+    "nom": "81.",
+    "capitale": "Iran",
+    "population": "Téhéran",
+    "superficie": "1 648 000",
+    "pib": "81 972 000",
+    "esperance_vie": "20 884"
+  },
+  {
+    "nom": "82.",
+    "capitale": "Irlande",
+    "population": "Dublin",
+    "superficie": "70 273",
+    "pib": "4 585 400",
+    "esperance_vie": "76 744"
+  },
+  {
+    "nom": "83.",
+    "capitale": "Islande",
+    "population": "Reykjavík",
+    "superficie": "103 000",
+    "pib": "321 857",
+    "esperance_vie": "55 322"
+  },
+  {
+    "nom": "84.",
+    "capitale": "Israël",
+    "population": "Tel Aviv",
+    "superficie": "20 770",
+    "pib": "8 002 300",
+    "esperance_vie": "38 867"
+  },
+  {
+    "nom": "85.",
+    "capitale": "Italie",
+    "population": "Rome",
+    "superficie": "301 230",
+    "pib": "59 499 534",
+    "esperance_vie": "40 923"
+  },
+  {
+    "nom": "86.",
+    "capitale": "Jamaïque",
+    "population": "Kingston",
+    "superficie": "10 990",
+    "pib": "2 709 300",
+    "esperance_vie": "9 065"
+  },
+  {
+    "nom": "87.",
+    "capitale": "Japon",
+    "population": "Tokyo",
+    "superficie": "377 835",
+    "pib": "126 440 000",
+    "esperance_vie": "42 066"
+  },
+  {
+    "nom": "88.",
+    "capitale": "Jordanie",
+    "population": "Amman",
+    "superficie": "92 300",
+    "pib": "6 284 000",
+    "esperance_vie": "9 172"
+  },
+  {
+    "nom": "89.",
+    "capitale": "Kazakhstan",
+    "population": "Astana",
+    "superficie": "2 717 300",
+    "pib": "18 367 000",
+    "esperance_vie": "26 490"
+  },
+  {
+    "nom": "90.",
+    "capitale": "Kenya",
+    "population": "Nairobi",
+    "superficie": "582 650",
+    "pib": "50 950 879",
+    "esperance_vie": "3 292"
+  },
+  {
+    "nom": "91.",
+    "capitale": "Kirghizie",
+    "population": "Bichkek",
+    "superficie": "198 500",
+    "pib": "5 551 900",
+    "esperance_vie": "3 735"
+  },
+  {
+    "nom": "92.",
+    "capitale": "Kiribati",
+    "population": "Tarawa-Sud",
+    "superficie": "811",
+    "pib": "104 573",
+    "esperance_vie": "2 185"
+  },
+  {
+    "nom": "93.",
+    "capitale": "Kuwait",
+    "population": "Koweït",
+    "superficie": "17 820",
+    "pib": "3 582 054",
+    "esperance_vie": "72 095"
+  },
+  {
+    "nom": "94.",
+    "capitale": "Laos",
+    "population": "Vientiane",
+    "superficie": "236 800",
+    "pib": "6 580 800",
+    "esperance_vie": "7 038"
+  },
+  {
+    "nom": "95.",
+    "capitale": "Lesotho",
+    "population": "Maseru",
+    "superficie": "30 355",
+    "pib": "2 240 000",
+    "esperance_vie": "2 932"
+  },
+  {
+    "nom": "96.",
+    "capitale": "Lettonie",
+    "population": "Riga",
+    "superficie": "64 589",
+    "pib": "2 027 000",
+    "esperance_vie": "28 362"
+  },
+  {
+    "nom": "97.",
+    "capitale": "Liban",
+    "population": "Beyrouth",
+    "superficie": "10 452",
+    "pib": "4 324 000",
+    "esperance_vie": "14 512"
+  },
+  {
+    "nom": "98.",
+    "capitale": "Libéria",
+    "population": "Monrovia",
+    "superficie": "111 370",
+    "pib": "3 476 608",
+    "esperance_vie": "1 285"
+  },
+  {
+    "nom": "99.",
+    "capitale": "Libye",
+    "population": "Tripoli",
+    "superficie": "1 759 540",
+    "pib": "6 506 000",
+    "esperance_vie": "19 673"
+  },
+  {
+    "nom": "100.",
+    "capitale": "Liechtenstein",
+    "population": "Vaduz",
+    "superficie": "160",
+    "pib": "36 842",
+    "esperance_vie": "-- N/A --"
+  },
+  {
+    "nom": "101.",
+    "capitale": "Lituanie",
+    "population": "Vilnius",
+    "superficie": "65 200",
+    "pib": "2 972 949",
+    "esperance_vie": "33 252"
+  },
+  {
+    "nom": "102.",
+    "capitale": "Luxembourg",
+    "population": "Luxembourg",
+    "superficie": "2 586",
+    "pib": "524 900",
+    "esperance_vie": "107 640"
+  },
+  {
+    "nom": "103.",
+    "capitale": "Macédoine du Nord",
+    "population": "Skopje",
+    "superficie": "25 333",
+    "pib": "2 059 794",
+    "esperance_vie": "15 290"
+  },
+  {
+    "nom": "104.",
+    "capitale": "Madagascar",
+    "population": "Antananarivo",
+    "superficie": "587 040",
+    "pib": "26 262 810",
+    "esperance_vie": "1 558"
+  },
+  {
+    "nom": "105.",
+    "capitale": "Malaisie",
+    "population": "Kuala Lumpur",
+    "superficie": "329 750",
+    "pib": "32 527 000",
+    "esperance_vie": "29 511"
+  },
+  {
+    "nom": "106.",
+    "capitale": "Malawi",
+    "population": "Lilongwe",
+    "superficie": "118 480",
+    "pib": "17 931 637",
+    "esperance_vie": "1 204"
+  },
+  {
+    "nom": "107.",
+    "capitale": "Maldives",
+    "population": "Malé",
+    "superficie": "300",
+    "pib": "328 536",
+    "esperance_vie": "16 688"
+  },
+  {
+    "nom": "108.",
+    "capitale": "Mali",
+    "population": "Bamako",
+    "superficie": "1 240 000",
+    "pib": "19 107 706",
+    "esperance_vie": "2 218"
+  },
+  {
+    "nom": "109.",
+    "capitale": "Malte",
+    "population": "La Valette",
+    "superficie": "316",
+    "pib": "416 055",
+    "esperance_vie": "40 796"
+  },
+  {
+    "nom": "110.",
+    "capitale": "Maroc",
+    "population": "Rabat",
+    "superficie": "446 550",
+    "pib": "35 361 000",
+    "esperance_vie": "8 225"
+  },
+  {
+    "nom": "111.",
+    "capitale": "Marshall",
+    "population": "Majuro",
+    "superficie": "181",
+    "pib": "55 548",
+    "esperance_vie": "4 246"
+  },
+  {
+    "nom": "112.",
+    "capitale": "Maurice",
+    "population": "Port-Louis",
+    "superficie": "2 040",
+    "pib": "1 257 900",
+    "esperance_vie": "22 356"
+  },
+  {
+    "nom": "113.",
+    "capitale": "Mauritanie",
+    "population": "Nouakchott",
+    "superficie": "1 030 700",
+    "pib": "3 461 041",
+    "esperance_vie": "3 958"
+  },
+  {
+    "nom": "114.",
+    "capitale": "Mexique",
+    "population": "Mexico",
+    "superficie": "1 972 550",
+    "pib": "119 938 473",
+    "esperance_vie": "18 655"
+  },
+  {
+    "nom": "115.",
+    "capitale": "Micronésie",
+    "population": "Palikir",
+    "superficie": "702",
+    "pib": "101 823",
+    "esperance_vie": "3 700"
+  },
+  {
+    "nom": "116.",
+    "capitale": "Moldavie",
+    "population": "Chisinau",
+    "superficie": "33 843",
+    "pib": "3 559 500",
+    "esperance_vie": "5 710"
+  },
+  {
+    "nom": "117.",
+    "capitale": "Monaco",
+    "population": "Monaco",
+    "superficie": "2",
+    "pib": "35 352",
+    "esperance_vie": "-- N/A --"
+  },
+  {
+    "nom": "118.",
+    "capitale": "Mongolie",
+    "population": "Oulan-Bator",
+    "superficie": "1 565 000",
+    "pib": "2 736 800",
+    "esperance_vie": "12 945"
+  },
+  {
+    "nom": "119.",
+    "capitale": "Monténégro",
+    "population": "Podgorica",
+    "superficie": "13 812",
+    "pib": "620 029",
+    "esperance_vie": "19 354"
+  },
+  {
+    "nom": "120.",
+    "capitale": "Mozambique",
+    "population": "Maputo",
+    "superficie": "801 590",
+    "pib": "28 861 863",
+    "esperance_vie": "1 250"
+  },
+  {
+    "nom": "121.",
+    "capitale": "Myanmar (Birmanie)",
+    "population": "Naypyidaw",
+    "superficie": "678 500",
+    "pib": "53 862 731",
+    "esperance_vie": "6 173"
+  },
+  {
+    "nom": "122.",
+    "capitale": "Namibie",
+    "population": "Windhoek",
+    "superficie": "825 418",
+    "pib": "2 104 900",
+    "esperance_vie": "10 470"
+  },
+  {
+    "nom": "123.",
+    "capitale": "Nauru",
+    "population": "Yaren",
+    "superficie": "21",
+    "pib": "9 945",
+    "esperance_vie": "15 039"
+  },
+  {
+    "nom": "124.",
+    "capitale": "Népal",
+    "population": "Katmandou",
+    "superficie": "140 800",
+    "pib": "29 218 867",
+    "esperance_vie": "2 702"
+  },
+  {
+    "nom": "125.",
+    "capitale": "Nicaragua",
+    "population": "Managua",
+    "superficie": "129 494",
+    "pib": "6 071 045",
+    "esperance_vie": "5 854"
+  },
+  {
+    "nom": "126.",
+    "capitale": "Niger",
+    "population": "Niamey",
+    "superficie": "1 267 000",
+    "pib": "21 466 863",
+    "esperance_vie": "1 018"
+  },
+  {
+    "nom": "127.",
+    "capitale": "Nigéria",
+    "population": "Abuja",
+    "superficie": "923 768",
+    "pib": "193 392 517",
+    "esperance_vie": "5 887"
+  },
+  {
+    "nom": "128.",
+    "capitale": "Norvège",
+    "population": "Oslo",
+    "superficie": "386 700",
+    "pib": "5 051 275",
+    "esperance_vie": "62 182"
+  },
+  {
+    "nom": "129.",
+    "capitale": "Nouvelle-Zélande",
+    "population": "Wellington",
+    "superficie": "268 680",
+    "pib": "4 464 300",
+    "esperance_vie": "40 747"
+  },
+  {
+    "nom": "130.",
+    "capitale": "Oman",
+    "population": "Mascate",
+    "superficie": "309 500",
+    "pib": "2 773 479",
+    "esperance_vie": "41 331"
+  },
+  {
+    "nom": "131.",
+    "capitale": "Ouganda",
+    "population": "Kampala",
+    "superficie": "236 040",
+    "pib": "38 823 100",
+    "esperance_vie": "1 868"
+  },
+  {
+    "nom": "132.",
+    "capitale": "Ouzbékistan",
+    "population": "Tachkent",
+    "superficie": "447 400",
+    "pib": "32 653 900",
+    "esperance_vie": "6 879"
+  },
+  {
+    "nom": "133.",
+    "capitale": "Pakistan",
+    "population": "Islamabad",
+    "superficie": "803 940",
+    "pib": "202 594 000",
+    "esperance_vie": "5 539"
+  },
+  {
+    "nom": "134.",
+    "capitale": "Palaos",
+    "population": "Melekeok",
+    "superficie": "458",
+    "pib": "20 770",
+    "esperance_vie": "14 854"
+  },
+  {
+    "nom": "135.",
+    "capitale": "Palestine",
+    "population": "Ramallah",
+    "superficie": "5 860",
+    "pib": "4 293 313",
+    "esperance_vie": "-- N/A --"
+  },
+  {
+    "nom": "136.",
+    "capitale": "Panama",
+    "population": "Panama",
+    "superficie": "78 200",
+    "pib": "3 405 813",
+    "esperance_vie": "24 520"
+  },
+  {
+    "nom": "137.",
+    "capitale": "Papouasie-Nouvelle-Guinée",
+    "population": "Port Moresby",
+    "superficie": "462 840",
+    "pib": "7 059 629",
+    "esperance_vie": "4 207"
+  },
+  {
+    "nom": "138.",
+    "capitale": "Paraguay",
+    "population": "Asuncion",
+    "superficie": "406 750",
+    "pib": "6 561 785",
+    "esperance_vie": "13 109"
+  },
+  {
+    "nom": "139.",
+    "capitale": "Pays-Bas",
+    "population": "Amsterdam",
+    "superficie": "41 526",
+    "pib": "17 273 000",
+    "esperance_vie": "54 422"
+  },
+  {
+    "nom": "140.",
+    "capitale": "Pérou",
+    "population": "Lima",
+    "superficie": "1 285 220",
+    "pib": "32 162 184",
+    "esperance_vie": "13 462"
+  },
+  {
+    "nom": "141.",
+    "capitale": "Philippines",
+    "population": "Manille",
+    "superficie": "300 000",
+    "pib": "106 792 000",
+    "esperance_vie": "8 360"
+  },
+  {
+    "nom": "142.",
+    "capitale": "Pologne",
+    "population": "Varsovie",
+    "superficie": "322 575",
+    "pib": "38 433 600",
+    "esperance_vie": "29 923"
+  },
+  {
+    "nom": "143.",
+    "capitale": "Portugal",
+    "population": "Lisbonne",
+    "superficie": "92 391",
+    "pib": "10 291 027",
+    "esperance_vie": "32 554"
+  },
+  {
+    "nom": "144.",
+    "capitale": "Qatar",
+    "population": "Doha",
+    "superficie": "11 437",
+    "pib": "1 917 116",
+    "esperance_vie": "128 646"
+  },
+  {
+    "nom": "145.",
+    "capitale": "République centrafricaine",
+    "population": "Bangui",
+    "superficie": "622 984",
+    "pib": "4 667 000",
+    "esperance_vie": "727"
+  },
+  {
+    "nom": "146.",
+    "capitale": "République démocratique du Congo",
+    "population": "Kinshasa",
+    "superficie": "2 345 410",
+    "pib": "84 004 989",
+    "esperance_vie": "889"
+  },
+  {
+    "nom": "147.",
+    "capitale": "République dominicaine",
+    "population": "Saint-Domingue",
+    "superficie": "48 730",
+    "pib": "9 445 281",
+    "esperance_vie": "16 063"
+  },
+  {
+    "nom": "148.",
+    "capitale": "Roumanie",
+    "population": "Bucarest",
+    "superficie": "237 500",
+    "pib": "19 523 621",
+    "esperance_vie": "26 660"
+  },
+  {
+    "nom": "149.",
+    "capitale": "Royaume-Uni",
+    "population": "Londres",
+    "superficie": "263 541",
+    "pib": "66 040 229",
+    "esperance_vie": "44 920"
+  },
+  {
+    "nom": "150.",
+    "capitale": "Russie",
+    "population": "Moscou",
+    "superficie": "17 075 200",
+    "pib": "146 877 088",
+    "esperance_vie": "25 763"
+  },
+  {
+    "nom": "151.",
+    "capitale": "Rwanda",
+    "population": "Kigali",
+    "superficie": "26 338",
+    "pib": "12 001 136",
+    "esperance_vie": "2 043"
+  },
+  {
+    "nom": "152.",
+    "capitale": "Sahara occidental",
+    "population": "Laâyoune",
+    "superficie": "266 000",
+    "pib": "567 402",
+    "esperance_vie": "-- N/A --"
+  },
+  {
+    "nom": "153.",
+    "capitale": "Saint-Christophe-et-Niévès",
+    "population": "Basseterre",
+    "superficie": "261",
+    "pib": "51 970",
+    "esperance_vie": "28 636"
+  },
+  {
+    "nom": "154.",
+    "capitale": "Saint-Marin",
+    "population": "Saint-Marin",
+    "superficie": "61",
+    "pib": "32 480",
+    "esperance_vie": "63 548"
+  },
+  {
+    "nom": "155.",
+    "capitale": "Saint-Vincent-et-les-Grenadines",
+    "population": "Kingstown",
+    "superficie": "389",
+    "pib": "100 892",
+    "esperance_vie": "11 769"
+  },
+  {
+    "nom": "156.",
+    "capitale": "Sainte-Lucie",
+    "population": "Castries",
+    "superficie": "620",
+    "pib": "166 526",
+    "esperance_vie": "13 986"
+  },
+  {
+    "nom": "157.",
+    "capitale": "Salvador",
+    "population": "San Salvador",
+    "superficie": "21 040",
+    "pib": "6 183 000",
+    "esperance_vie": "8 023"
+  },
+  {
+    "nom": "158.",
+    "capitale": "Samoa",
+    "population": "Apia",
+    "superficie": "2 860",
+    "pib": "187 820",
+    "esperance_vie": "6 640"
+  },
+  {
+    "nom": "159.",
+    "capitale": "São Tomé and Príncipe",
+    "population": "São Tomé",
+    "superficie": "1 001",
+    "pib": "187 356",
+    "esperance_vie": "3 358"
+  },
+  {
+    "nom": "160.",
+    "capitale": "Sénégal",
+    "population": "Dakar",
+    "superficie": "196 190",
+    "pib": "15 726 037",
+    "esperance_vie": "3 457"
+  },
+  {
+    "nom": "161.",
+    "capitale": "Serbie",
+    "population": "Belgrade",
+    "superficie": "88 361",
+    "pib": "7 189 705",
+    "esperance_vie": "15 431"
+  },
+  {
+    "nom": "162.",
+    "capitale": "Seychelles",
+    "population": "Victoria",
+    "superficie": "455",
+    "pib": "90 945",
+    "esperance_vie": "29 327"
+  },
+  {
+    "nom": "163.",
+    "capitale": "Sierra Leone",
+    "population": "Freetown",
+    "superficie": "71 740",
+    "pib": "6 255 000",
+    "esperance_vie": "1 530"
+  },
+  {
+    "nom": "164.",
+    "capitale": "Singapour",
+    "population": "Singapour",
+    "superficie": "692",
+    "pib": "5 312 400",
+    "esperance_vie": "94 104"
+  },
+  {
+    "nom": "165.",
+    "capitale": "Slovaquie",
+    "population": "Bratislava",
+    "superficie": "49 035",
+    "pib": "5 412 008",
+    "esperance_vie": "32 371"
+  },
+  {
+    "nom": "166.",
+    "capitale": "Slovénie",
+    "population": "Ljubljana",
+    "superficie": "20 273",
+    "pib": "2 059 509",
+    "esperance_vie": "36 387"
+  },
+  {
+    "nom": "167.",
+    "capitale": "Somalie",
+    "population": "Mogadiscio",
+    "superficie": "637 657",
+    "pib": "15 181 925",
+    "esperance_vie": "-- N/A --"
+  },
+  {
+    "nom": "168.",
+    "capitale": "Soudan",
+    "population": "Khartoum",
+    "superficie": "1 886 068",
+    "pib": "41 029 953",
+    "esperance_vie": "4 914"
+  },
+  {
+    "nom": "169.",
+    "capitale": "Soudan du Sud",
+    "population": "Djouba",
+    "superficie": "644 329",
+    "pib": "12 323 419",
+    "esperance_vie": "1 694"
+  },
+  {
+    "nom": "170.",
+    "capitale": "Sri Lanka",
+    "population": "Sri Jayawardenapura Kotte",
+    "superficie": "65 610",
+    "pib": "21 670 000",
+    "esperance_vie": "12 862"
+  },
+  {
+    "nom": "171.",
+    "capitale": "Suède",
+    "population": "Stockholm",
+    "superficie": "449 964",
+    "pib": "9 566 945",
+    "esperance_vie": "51 404"
+  },
+  {
+    "nom": "172.",
+    "capitale": "Suisse",
+    "population": "Berne",
+    "superficie": "41 290",
+    "pib": "8 014 000",
+    "esperance_vie": "66 307"
+  },
+  {
+    "nom": "173.",
+    "capitale": "Suriname",
+    "population": "Paramaribo",
+    "superficie": "163 270",
+    "pib": "534 189",
+    "esperance_vie": "15 191"
+  },
+  {
+    "nom": "174.",
+    "capitale": "Syrie",
+    "population": "Damas",
+    "superficie": "185 180",
+    "pib": "18 284 407",
+    "esperance_vie": "-- N/A --"
+  },
+  {
+    "nom": "175.",
+    "capitale": "Tadjikistan",
+    "population": "Douchanbé",
+    "superficie": "143 100",
+    "pib": "7 800 000",
+    "esperance_vie": "3 201"
+  },
+  {
+    "nom": "176.",
+    "capitale": "Tanzanie",
+    "population": "Dodoma",
+    "superficie": "948 087",
+    "pib": "54 199 163",
+    "esperance_vie": "2 947"
+  },
+  {
+    "nom": "177.",
+    "capitale": "Thaïlande",
+    "population": "Bangkok",
+    "superficie": "514 000",
+    "pib": "69 183 173",
+    "esperance_vie": "17 910"
+  },
+  {
+    "nom": "178.",
+    "capitale": "Tchad",
+    "population": "N'Djamena",
+    "superficie": "1 284 000",
+    "pib": "15 353 184",
+    "esperance_vie": "1 945"
+  },
+  {
+    "nom": "179.",
+    "capitale": "Tchéquie",
+    "population": "Prague",
+    "superficie": "78 867",
+    "pib": "10 649 800",
+    "esperance_vie": "38 019"
+  },
+  {
+    "nom": "180.",
+    "capitale": "Timor oriental",
+    "population": "Dili",
+    "superficie": "14 874",
+    "pib": "1 066 409",
+    "esperance_vie": "7 228"
+  },
+  {
+    "nom": "181.",
+    "capitale": "Togo",
+    "population": "Lomé",
+    "superficie": "56 785",
+    "pib": "6 191 155",
+    "esperance_vie": "1 663"
+  },
+  {
+    "nom": "182.",
+    "capitale": "Tonga",
+    "population": "Nuku'alofa",
+    "superficie": "748",
+    "pib": "103 036",
+    "esperance_vie": "5 969"
+  },
+  {
+    "nom": "183.",
+    "capitale": "Trinité-et-Tobago",
+    "population": "Port-d'Espagne",
+    "superficie": "5 128",
+    "pib": "1 328 019",
+    "esperance_vie": "31 644"
+  },
+  {
+    "nom": "184.",
+    "capitale": "Tunisie",
+    "population": "Tunis",
+    "superficie": "163 610",
+    "pib": "11 446 300",
+    "esperance_vie": "11 936"
+  },
+  {
+    "nom": "185.",
+    "capitale": "Turkménistan",
+    "population": "Achgabat",
+    "superficie": "488 100",
+    "pib": "5 235 000",
+    "esperance_vie": "18 030"
+  },
+  {
+    "nom": "186.",
+    "capitale": "Turquie",
+    "population": "Ankara",
+    "superficie": "780 580",
+    "pib": "80 810 525",
+    "esperance_vie": "28 001"
+  },
+  {
+    "nom": "187.",
+    "capitale": "Tuvalu",
+    "population": "Funafuti",
+    "superficie": "26",
+    "pib": "11 264",
+    "esperance_vie": "3 933"
+  },
+  {
+    "nom": "188.",
+    "capitale": "Ukraine",
+    "population": "Kiev",
+    "superficie": "603 700",
+    "pib": "42 234 014",
+    "esperance_vie": "8 698"
+  },
+  {
+    "nom": "189.",
+    "capitale": "Uruguay",
+    "population": "Montevideo",
+    "superficie": "176 220",
+    "pib": "3 286 314",
+    "esperance_vie": "22 610"
+  },
+  {
+    "nom": "190.",
+    "capitale": "Vanuatu",
+    "population": "Port-Vila",
+    "superficie": "12 200",
+    "pib": "258 213",
+    "esperance_vie": "3 214"
+  },
+  {
+    "nom": "191.",
+    "capitale": "Vatican",
+    "population": "Cité du Vatican",
+    "superficie": "1",
+    "pib": "836",
+    "esperance_vie": "-- N/A --"
+  },
+  {
+    "nom": "192.",
+    "capitale": "Venezuela",
+    "population": "Caracas",
+    "superficie": "912 050",
+    "pib": "31 828 110",
+    "esperance_vie": "17 694"
+  },
+  {
+    "nom": "193.",
+    "capitale": "Viêt Nam",
+    "population": "Hanoï",
+    "superficie": "331 212",
+    "pib": "94 660 000",
+    "esperance_vie": "6 790"
+  },
+  {
+    "nom": "194.",
+    "capitale": "Yémen",
+    "population": "Sanaa",
+    "superficie": "527 970",
+    "pib": "28 915 284",
+    "esperance_vie": "2 606"
+  },
+  {
+    "nom": "195.",
+    "capitale": "Zambie",
+    "population": "Lusaka",
+    "superficie": "752 614",
+    "pib": "16 887 720",
+    "esperance_vie": "4 032"
+  },
+  {
+    "nom": "196.",
+    "capitale": "Zimbabwe",
+    "population": "Harare",
+    "superficie": "390 580",
+    "pib": "14 848 905",
+    "esperance_vie": "2 433"
+  }
+]
