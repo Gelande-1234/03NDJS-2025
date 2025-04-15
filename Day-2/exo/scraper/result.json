@@ -1,0 +1,803 @@
+ange@GELANDE:~/03NDJS-2025/Day-2/exo/scraper$ node index.js
+[
+  {
+    nom: '',
+    capitale: '',
+    population: '',
+    superficie: '',
+    pib: '',
+    esperance_vie: ''
+  },
+  {
+    nom: '1.',
+    capitale: 'Afghanistan',
+    population: 'Kaboul',
+    superficie: '647 500',
+    pib: '31 575 018',
+    esperance_vie: '1 976'
+  },
+  {
+    nom: '2.',
+    capitale: 'Afrique du Sud',
+    population: 'Pretoria',
+    superficie: '1 219 912',
+    pib: '57 725 600',
+    esperance_vie: '13 526'
+  },
+  {
+    nom: '3.',
+    capitale: 'Albanie',
+    population: 'Tirana',
+    superficie: '28 748',
+    pib: '2 821 977',
+    esperance_vie: '12 943'
+  },
+  {
+    nom: '4.',
+    capitale: 'Algérie',
+    population: 'Alger',
+    superficie: '2 381 740',
+    pib: '42 545 964',
+    esperance_vie: '15 292'
+  },
+  {
+    nom: '5.',
+    capitale: 'Allemagne',
+    population: 'Berlin',
+    superficie: '357 021',
+    pib: '82 793 800',
+    esperance_vie: '52 555'
+  },
+  {
+    nom: '6.',
+    capitale: 'Andorre',
+    population: 'Andorre-la-Vieille',
+    superficie: '468',
+    pib: '76 246',
+    esperance_vie: '-- N/A --'
+  },
+  {
+    nom: '7.',
+    capitale: 'Angola',
+    population: 'Luanda',
+    superficie: '1 246 700',
+    pib: '29 250 009',
+    esperance_vie: '6 657'
+  },
+  {
+    nom: '8.',
+    capitale: 'Antigua-et-Barbuda',
+    population: "Saint John's",
+    superficie: '442',
+    pib: '86 295',
+    esperance_vie: '23 522'
+  },
+  {
+    nom: '9.',
+    capitale: 'Arabie saoudite',
+    population: 'Riyad',
+    superficie: '2 218 000',
+    pib: '33 413 660',
+    esperance_vie: '53 893'
+  },
+  {
+    nom: '10.',
+    capitale: 'Argentine',
+    population: 'Buenos Aires',
+    superficie: '2 766 890',
+    pib: '44 494 502',
+    esperance_vie: '20 828'
+  },
+  {
+    nom: '11.',
+    capitale: 'Arménie',
+    population: 'Erevan',
+    superficie: '29 743',
+    pib: '3 031 200',
+    esperance_vie: '9 668'
+  },
+  {
+    nom: '12.',
+    capitale: 'Australie',
+    population: 'Canberra',
+    superficie: '7 686 850',
+    pib: '25 130 600',
+    esperance_vie: '49 378'
+  },
+  {
+    nom: '13.',
+    capitale: 'Autriche',
+    population: 'Vienne',
+    superficie: '83 858',
+    pib: '8 488 511',
+    esperance_vie: '53 879'
+  },
+  {
+    nom: '14.',
+    capitale: 'Azerbaïdjan',
+    population: 'Bakou',
+    superficie: '86 600',
+    pib: '9 235 100',
+    esperance_vie: '17 449'
+  },
+  {
+    nom: '15.',
+    capitale: 'Bahamas',
+    population: 'Nassau',
+    superficie: '13 940',
+    pib: '351 461',
+    esperance_vie: '30 494'
+  },
+  {
+    nom: '16.',
+    capitale: 'Bahreïn',
+    population: 'Manama',
+    superficie: '665',
+    pib: '1 234 571',
+    esperance_vie: '47 708'
+  },
+  {
+    nom: '17.',
+    capitale: 'Bangladesh',
+    population: 'Dacca',
+    superficie: '144 000',
+    pib: '165 570 000',
+    esperance_vie: '3 877'
+  },
+  {
+    nom: '18.',
+    capitale: 'Barbade',
+    population: 'Bridgetown',
+    superficie: '431',
+    pib: '274 200',
+    esperance_vie: '18 559'
+  },
+  {
+    nom: '19.',
+    capitale: 'Bélarus',
+    population: 'Minsk',
+    superficie: '207 600',
+    pib: '9 461 800',
+    esperance_vie: '18 895'
+  },
+  {
+    nom: '20.',
+    capitale: 'Belgique',
+    population: 'Bruxelles',
+    superficie: '32 545',
+    pib: '11 428 164',
+    esperance_vie: '49 366'
+  },
+  {
+    nom: '21.',
+    capitale: 'Belize',
+    population: 'Belmopan',
+    superficie: '22 966',
+    pib: '312 971',
+    esperance_vie: '8 525'
+  },
+  {
+    nom: '22.',
+    capitale: 'Bénin',
+    population: 'Porto-Novo',
+    superficie: '112 620',
+    pib: '11 362 269',
+    esperance_vie: '2 276'
+  },
+  {
+    nom: '23.',
+    capitale: 'Bhoutan',
+    population: 'Thimphou',
+    superficie: '47 000',
+    pib: '733 180',
+    esperance_vie: '9 391'
+  },
+  {
+    nom: '24.',
+    capitale: 'Bolivie',
+    population: 'Sucre',
+    superficie: '1 098 580',
+    pib: '11 307 314',
+    esperance_vie: '7 575'
+  },
+  {
+    nom: '25.',
+    capitale: 'Bosnie-Herzégovine',
+    population: 'Sarajevo',
+    superficie: '51 129',
+    pib: '3 839 737',
+    esperance_vie: '13 107'
+  },
+  {
+    nom: '26.',
+    capitale: 'Botswana',
+    population: 'Gaborone',
+    superficie: '600 370',
+    pib: '2 024 904',
+    esperance_vie: '17 024'
+  },
+  {
+    nom: '27.',
+    capitale: 'Brésil',
+    population: 'Brasilia',
+    superficie: '8 511 965',
+    pib: '209 134 000',
+    esperance_vie: '15 553'
+  },
+  {
+    nom: '28.',
+    capitale: 'Brunei',
+    population: 'Bandar Seri Begawan',
+    superficie: '5 770',
+    pib: '393 162',
+    esperance_vie: '79 003'
+  },
+  {
+    nom: '29.',
+    capitale: 'Bulgarie',
+    population: 'Sofia',
+    superficie: '110 910',
+    pib: '7 050 034',
+    esperance_vie: '20 948'
+  },
+  {
+    nom: '30.',
+    capitale: 'Burkina Faso',
+    population: 'Ouagadougou',
+    superficie: '274 200',
+    pib: '20 244 080',
+    esperance_vie: '1 866'
+  },
+  {
+    nom: '31.',
+    capitale: 'Burundi',
+    population: 'Gitega',
+    superficie: '27 830',
+    pib: '10 681 186',
+    esperance_vie: '735'
+  },
+  {
+    nom: '32.',
+    capitale: 'Cambodge',
+    population: 'Phnom Penh',
+    superficie: '181 040',
+    pib: '16 069 921',
+    esperance_vie: '4 017'
+  },
+  {
+    nom: '33.',
+    capitale: 'Cameroun',
+    population: 'Yaoundé',
+    superficie: '475 440',
+    pib: '23 794 164',
+    esperance_vie: '3 722'
+  },
+  {
+    nom: '34.',
+    capitale: 'Canada',
+    population: 'Ottawa',
+    superficie: '9 976 140',
+    pib: '37 067 000',
+    esperance_vie: '46 509'
+  },
+  {
+    nom: '35.',
+    capitale: 'Cap-Vert',
+    population: 'Praia',
+    superficie: '4 033',
+    pib: '491 875',
+    esperance_vie: '6 912'
+  },
+  {
+    nom: '36.',
+    capitale: 'Colombie',
+    population: 'Bogota',
+    superficie: '1 138 910',
+    pib: '50 047 300',
+    esperance_vie: '14 503'
+  },
+  {
+    nom: '37.',
+    capitale: 'Comores',
+    population: 'Moroni',
+    superficie: '2 170',
+    pib: '724 300',
+    esperance_vie: '2 751'
+  },
+  {
+    nom: '38.',
+    capitale: 'Congo',
+    population: 'Brazzaville',
+    superficie: '342 000',
+    pib: '4 324 000',
+    esperance_vie: '5 454'
+  },
+  {
+    nom: '39.',
+    capitale: 'Corée du Nord',
+    population: 'Pyongyang',
+    superficie: '120 540',
+    pib: '25 610 672',
+    esperance_vie: '-- N/A --'
+  },
+  {
+    nom: '40.',
+    capitale: 'Corée du Sud',
+    population: 'Séoul',
+    superficie: '98 480',
+    pib: '51 635 256',
+    esperance_vie: '38 824'
+  },
+  {
+    nom: '41.',
+    capitale: 'Costa Rica',
+    population: 'San José',
+    superficie: '51 100',
+    pib: '4 667 096',
+    esperance_vie: '17 109'
+  },
+  {
+    nom: '42.',
+    capitale: "Côte d'Ivoire",
+    population: 'Yamoussoukro',
+    superficie: '322 460',
+    pib: '24 571 044',
+    esperance_vie: '3 944'
+  },
+  {
+    nom: '43.',
+    capitale: 'Croatie',
+    population: 'Zagreb',
+    superficie: '56 542',
+    pib: '4 290 612',
+    esperance_vie: '26 295'
+  },
+  {
+    nom: '44.',
+    capitale: 'Cuba',
+    population: 'La Havane',
+    superficie: '100 860',
+    pib: '11 221 060',
+    esperance_vie: '-- N/A --'
+  },
+  {
+    nom: '45.',
+    capitale: 'Danemark',
+    population: 'Copenhague',
+    superficie: '43 094',
+    pib: '5 602 628',
+    esperance_vie: '54 356'
+  },
+  {
+    nom: '46.',
+    capitale: 'Djibouti',
+    population: 'Djibouti',
+    superficie: '22 000',
+    pib: '818 159',
+    esperance_vie: '2 705'
+  },
+  {
+    nom: '47.',
+    capitale: 'Dominique',
+    population: 'Roseau',
+    superficie: '754',
+    pib: '71 293',
+    esperance_vie: '10 037'
+  },
+  {
+    nom: '48.',
+    capitale: 'Égypte',
+    population: 'Le Caire',
+    superficie: '1 001 450',
+    pib: '97 907 000',
+    esperance_vie: '11 608'
+  },
+  {
+    nom: '49.',
+    capitale: 'Émirats arabes unis',
+    population: 'Abou Dabi',
+    superficie: '82 880',
+    pib: '8 264 070',
+    esperance_vie: '74 035'
+  },
+  {
+    nom: '50.',
+    capitale: 'Équateur',
+    population: 'Quito',
+    superficie: '283 560',
+    pib: '17 120 000',
+    esperance_vie: '11 612'
+  },
+  {
+    nom: '51.',
+    capitale: 'Érythrée',
+    population: 'Asmara',
+    superficie: '121 320',
+    pib: '5 748 000',
+    esperance_vie: '1 510'
+  },
+  {
+    nom: '52.',
+    capitale: 'Espagne',
+    population: 'Madrid',
+    superficie: '504 782',
+    pib: '46 659 302',
+    esperance_vie: '39 037'
+  },
+  {
+    nom: '53.',
+    capitale: 'Estonie',
+    population: 'Tallinn',
+    superficie: '45 226',
+    pib: '1 286 540',
+    esperance_vie: '33 447'
+  },
+  {
+    nom: '54.',
+    capitale: 'Eswatini',
+    population: 'Mbabane',
+    superficie: '17 363',
+    pib: '1 237 000',
+    esperance_vie: '8 659'
+  },
+  {
+    nom: '55.',
+    capitale: 'États-Unis',
+    population: 'Washington D.C.',
+    superficie: '9 639 810',
+    pib: '329 035 000',
+    esperance_vie: '59 927'
+  },
+  {
+    nom: '56.',
+    capitale: 'Éthiopie',
+    population: 'Addis-Abeba',
+    superficie: '1 127 127',
+    pib: '107 534 882',
+    esperance_vie: '1 903'
+  },
+  {
+    nom: '57.',
+    capitale: 'Fidji',
+    population: 'Suva',
+    superficie: '18 270',
+    pib: '858 038',
+    esperance_vie: '9 574'
+  },
+  {
+    nom: '58.',
+    capitale: 'Finlande',
+    population: 'Helsinki',
+    superficie: '337 030',
+    pib: '5 433 730',
+    esperance_vie: '46 343'
+  },
+  {
+    nom: '59.',
+    capitale: 'France',
+    population: 'Paris',
+    superficie: '675 417',
+    pib: '67 348 000',
+    esperance_vie: '44 032'
+  },
+  {
+    nom: '60.',
+    capitale: 'Gabon',
+    population: 'Libreville',
+    superficie: '267 667',
+    pib: '1 594 000',
+    esperance_vie: '18 113'
+  },
+  {
+    nom: '61.',
+    capitale: 'Gambie',
+    population: 'Banjul',
+    superficie: '11 300',
+    pib: '1 874 000',
+    esperance_vie: '1 699'
+  },
+  {
+    nom: '62.',
+    capitale: 'Géorgie',
+    population: 'Tbilissi',
+    superficie: '69 700',
+    pib: '4 497 600',
+    esperance_vie: '10 674'
+  },
+  {
+    nom: '63.',
+    capitale: 'Ghana',
+    population: 'Accra',
+    superficie: '239 460',
+    pib: '29 614 337',
+    esperance_vie: '4 501'
+  },
+  {
+    nom: '64.',
+    capitale: 'Grèce',
+    population: 'Athènes',
+    superficie: '131 940',
+    pib: '10 768 193',
+    esperance_vie: '28 582'
+  },
+  {
+    nom: '65.',
+    capitale: 'Grenade',
+    population: 'Saint-Georges',
+    superficie: '344',
+    pib: '103 328',
+    esperance_vie: '15 155'
+  },
+  {
+    nom: '66.',
+    capitale: 'Guatemala',
+    population: 'Guatemala',
+    superficie: '108 890',
+    pib: '17 302 084',
+    esperance_vie: '8 167'
+  },
+  {
+    nom: '67.',
+    capitale: 'Guinée',
+    population: 'Conakry',
+    superficie: '245 857',
+    pib: '11 883 516',
+    esperance_vie: '2 247'
+  },
+  {
+    nom: '68.',
+    capitale: 'Guinée équatoriale',
+    population: 'Malabo',
+    superficie: '28 051',
+    pib: '761 000',
+    esperance_vie: '24 439'
+  },
+  {
+    nom: '69.',
+    capitale: 'Guinée-Bissau',
+    population: 'Bissau',
+    superficie: '36 120',
+    pib: '1 520 830',
+    esperance_vie: '1 703'
+  },
+  {
+    nom: '70.',
+    capitale: 'Guyana',
+    population: 'Georgetown',
+    superficie: '214 970',
+    pib: '784 894',
+    esperance_vie: '8 179'
+  },
+  {
+    nom: '71.',
+    capitale: 'Haïti',
+    population: 'Port-au-Prince',
+    superficie: '27 750',
+    pib: '11 112 945',
+    esperance_vie: '1 818'
+  },
+  {
+    nom: '72.',
+    capitale: 'Honduras',
+    population: 'Tegucigalpa',
+    superficie: '112 090',
+    pib: '8 385 072',
+    esperance_vie: '4 996'
+  },
+  {
+    nom: '73.',
+    capitale: 'Hongrie',
+    population: 'Budapest',
+    superficie: '93 030',
+    pib: '9 957 731',
+    esperance_vie: '28 798'
+  },
+  {
+    nom: '74.',
+    capitale: 'Chili',
+    population: 'Santiago',
+    superficie: '756 950',
+    pib: '17 574 003',
+    esperance_vie: '24 747'
+  },
+  {
+    nom: '75.',
+    capitale: 'Chine',
+    population: 'Pékin',
+    superficie: '9 596 960',
+    pib: '1 393 302 000',
+    esperance_vie: '16 842'
+  },
+  {
+    nom: '76.',
+    capitale: 'Chypre',
+    population: 'Nicosie',
+    superficie: '9 250',
+    pib: '862 000',
+    esperance_vie: '36 012'
+  },
+  {
+    nom: '77.',
+    capitale: 'Îles Salomon',
+    population: 'Honiara',
+    superficie: '29 785',
+    pib: '642 000',
+    esperance_vie: '2 426'
+  },
+  {
+    nom: '78.',
+    capitale: 'Inde',
+    population: 'New Delhi',
+    superficie: '3 287 590',
+    pib: '1 353 919 000',
+    esperance_vie: '7 166'
+  },
+  {
+    nom: '79.',
+    capitale: 'Indonésie',
+    population: 'Jakarta',
+    superficie: '1 904 556',
+    pib: '265 015 300',
+    esperance_vie: '12 309'
+  },
+  {
+    nom: '80.',
+    capitale: 'Irak',
+    population: 'Bagdad',
+    superficie: '437 072',
+    pib: '39 339 753',
+    esperance_vie: '16 935'
+  },
+  {
+    nom: '81.',
+    capitale: 'Iran',
+    population: 'Téhéran',
+    superficie: '1 648 000',
+    pib: '81 972 000',
+    esperance_vie: '20 884'
+  },
+  {
+    nom: '82.',
+    capitale: 'Irlande',
+    population: 'Dublin',
+    superficie: '70 273',
+    pib: '4 585 400',
+    esperance_vie: '76 744'
+  },
+  {
+    nom: '83.',
+    capitale: 'Islande',
+    population: 'Reykjavík',
+    superficie: '103 000',
+    pib: '321 857',
+    esperance_vie: '55 322'
+  },
+  {
+    nom: '84.',
+    capitale: 'Israël',
+    population: 'Tel Aviv',
+    superficie: '20 770',
+    pib: '8 002 300',
+    esperance_vie: '38 867'
+  },
+  {
+    nom: '85.',
+    capitale: 'Italie',
+    population: 'Rome',
+    superficie: '301 230',
+    pib: '59 499 534',
+    esperance_vie: '40 923'
+  },
+  {
+    nom: '86.',
+    capitale: 'Jamaïque',
+    population: 'Kingston',
+    superficie: '10 990',
+    pib: '2 709 300',
+    esperance_vie: '9 065'
+  },
+  {
+    nom: '87.',
+    capitale: 'Japon',
+    population: 'Tokyo',
+    superficie: '377 835',
+    pib: '126 440 000',
+    esperance_vie: '42 066'
+  },
+  {
+    nom: '88.',
+    capitale: 'Jordanie',
+    population: 'Amman',
+    superficie: '92 300',
+    pib: '6 284 000',
+    esperance_vie: '9 172'
+  },
+  {
+    nom: '89.',
+    capitale: 'Kazakhstan',
+    population: 'Astana',
+    superficie: '2 717 300',
+    pib: '18 367 000',
+    esperance_vie: '26 490'
+  },
+  {
+    nom: '90.',
+    capitale: 'Kenya',
+    population: 'Nairobi',
+    superficie: '582 650',
+    pib: '50 950 879',
+    esperance_vie: '3 292'
+  },
+  {
+    nom: '91.',
+    capitale: 'Kirghizie',
+    population: 'Bichkek',
+    superficie: '198 500',
+    pib: '5 551 900',
+    esperance_vie: '3 735'
+  },
+  {
+    nom: '92.',
+    capitale: 'Kiribati',
+    population: 'Tarawa-Sud',
+    superficie: '811',
+    pib: '104 573',
+    esperance_vie: '2 185'
+  },
+  {
+    nom: '93.',
+    capitale: 'Kuwait',
+    population: 'Koweït',
+    superficie: '17 820',
+    pib: '3 582 054',
+    esperance_vie: '72 095'
+  },
+  {
+    nom: '94.',
+    capitale: 'Laos',
+    population: 'Vientiane',
+    superficie: '236 800',
+    pib: '6 580 800',
+    esperance_vie: '7 038'
+  },
+  {
+    nom: '95.',
+    capitale: 'Lesotho',
+    population: 'Maseru',
+    superficie: '30 355',
+    pib: '2 240 000',
+    esperance_vie: '2 932'
+  },
+  {
+    nom: '96.',
+    capitale: 'Lettonie',
+    population: 'Riga',
+    superficie: '64 589',
+    pib: '2 027 000',
+    esperance_vie: '28 362'
+  },
+  {
+    nom: '97.',
+    capitale: 'Liban',
+    population: 'Beyrouth',
+    superficie: '10 452',
+    pib: '4 324 000',
+    esperance_vie: '14 512'
+  },
+  {
+    nom: '98.',
+    capitale: 'Libéria',
+    population: 'Monrovia',
+    superficie: '111 370',
+    pib: '3 476 608',
+    esperance_vie: '1 285'
+  },
+  {
+    nom: '99.',
+    capitale: 'Libye',
+    population: 'Tripoli',
+    superficie: '1 759 540',
+    pib: '6 506 000',
+    esperance_vie: '19 673'
+  },
+  ... 97 more items
