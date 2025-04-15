@@ -1,9 +1,14 @@
 const cheerio = require('cheerio');
-async function scraper (){
-try {
-const $ = await cheerio.fromURL('https://www.geograf.in/fr/table.php');
 
-    $('table tbody tr').each((i, el) => {
+async function scraper() {
+  try {
+   
+    const $ = await cheerio.fromURL('https://www.geograf.in/fr/table.php');
+
+    const tableau = [];
+
+    
+    $('table.nice.full.responsive tbody tr').each((i, el) => {
       const tds = $(el).find('td');
       tableau.push({
         nom: tds.eq(0).text().trim(),
@@ -16,10 +21,10 @@ const $ = await cheerio.fromURL('https://www.geograf.in/fr/table.php');
     });
 
     console.log(tableau);
-  });
+  } catch (err) {
+    console.error('Erreur :', err.message);
+  }
 }
-}).on('error', (err) => {
-  console.error('Erreur :', err.message);
-});
-}
-scraper ()
+
+scraper();
+
