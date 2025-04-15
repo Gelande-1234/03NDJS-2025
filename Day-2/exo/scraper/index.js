@@ -1,29 +1,25 @@
 const cheerio = require('cheerio');
-const fs = require('fs');
+async function scraper (){
+try {
+const $ = await cheerio.fromURL('https://www.geograf.in/fr/table.php');
 
-// Lire le fichier HTML localement (exemple : 'page.html')
-fs.readFile('page.html', 'utf8', (err, data) => {
-  if (err) {
-    console.error(err);
-    return;
-  }
+    $('table tbody tr').each((i, el) => {
+      const tds = $(el).find('td');
+      tableau.push({
+        nom: tds.eq(0).text().trim(),
+        capitale: tds.eq(1).text().trim(),
+        population: tds.eq(2).text().trim(),
+        superficie: tds.eq(3).text().trim(),
+        pib: tds.eq(4).text().trim(),
+        esperance_vie: tds.eq(5).text().trim()
+      });
+    });
 
-  // Charger le contenu HTML dans Cheerio
-  const $ = cheerio.load(data);
-  let tableau = [];
-
-  // Extraire les lignes du tableau
-  $('table tbody tr').each((index, element) => {
-    let pays = {};
-    pays.nom = $(element).find('td').eq(0).text().trim();
-    pays.capitale = $(element).find('td').eq(1).text().trim();
-    pays.population = $(element).find('td').eq(2).text().trim();
-    pays.superficie = $(element).find('td').eq(3).text().trim();
-    pays.pib = $(element).find('td').eq(4).text().trim();
-    pays.esperance_vie = $(element).find('td').eq(5).text().trim();
-
-    tableau.push(pays);
+    console.log(tableau);
   });
-
-  console.log(tableau);
+}
+}).on('error', (err) => {
+  console.error('Erreur :', err.message);
 });
+}
+scraper ()
