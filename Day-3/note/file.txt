@@ -1,0 +1,10 @@
+Day3
+creer les repertoires exo, sandbox et notes
+dans le dossier exo on
+creer un repertoire express_serveur
+ouvrir et faire un npm init -y pour creer une base de donnés
+installer moongose et express
+dans ce repertoire creer le repertoire DB 
+et dans le repertoire DB creer le fichier DBconnect.js
+ouvrir le fichier et ecrire 
+ 
